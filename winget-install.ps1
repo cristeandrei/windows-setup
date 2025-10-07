@@ -12,6 +12,7 @@ winget install --id=qBittorrent.qBittorrent  -e
 
 winget install -e --id Docker.DockerDesktop
 
-winget install -e --id Nvidia.GeForceExperience
-
 winget install -e --id Valve.Steam
+
+# lenovo vantage
+winget install --id 9WZDNCRFJ4MV -e -h
